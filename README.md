@@ -1,14 +1,13 @@
 # Loaner
 
-Το Loaner κάνει υπολογισμό δοσεων/εξόδων κτλ για ένα στεγαστικό δάνειο. Enjoy!
-Mortgage loan calculator (UI in greek only)
-Built using Bootstrap 4, React, Redux
+Mortgage Loan calculator
 
 ## Features
 
-  - έλεγχος έγκρισης δανείου
-  - υπολογισμός δόσης
-  - κατέβασμα σε μορφή .pdf
+  - affordability check
+  - approval check
+  - monthly payment
+  - repayments
   - magic
 
-Πατήστε εδώ για το [Demo](<https://savvakis.github.io/loaner/>)
+Click here for the [Mortgage calculator](<https://mortgage-loaner.com/#/>)
