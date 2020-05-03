@@ -6,35 +6,11 @@
     <xhtml:link 
                rel="alternate"
                hreflang="en"
-               href="https://mortgage-loaner.com/#/"/>
+               href="https://mortgage-loaner.com/#/en/"/>
     <xhtml:link 
                rel="alternate"
                hreflang="el"
                href="https://mortgage-loaner.com/#/el/"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="de"
-               href="https://mortgage-loaner.com/#/de/"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="es"
-               href="https://mortgage-loaner.com/#/es/"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="fr"
-               href="https://mortgage-loaner.com/#/fr/"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="hi"
-               href="https://mortgage-loaner.com/#/hi/"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="pt"
-               href="https://mortgage-loaner.com/#/pt/"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="ru"
-               href="https://mortgage-loaner.com/#/ru/"/>
   </url>
   <url>
     <loc>https://mortgage-loaner.com/#/en/stats</loc>
@@ -46,29 +22,5 @@
                rel="alternate"
                hreflang="el"
                href="https://mortgage-loaner.com/#/el/stats"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="de"
-               href="https://mortgage-loaner.com/#/de/stats"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="es"
-               href="https://mortgage-loaner.com/#/es/stats"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="fr"
-               href="https://mortgage-loaner.com/#/fr/stats"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="hi"
-               href="https://mortgage-loaner.com/#/hi/stats"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="pt"
-               href="https://mortgage-loaner.com/#/pt/stats"/>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="ru"
-               href="https://mortgage-loaner.com/#/ru/stats"/>
   </url>
 </urlset>
