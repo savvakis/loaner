@@ -11,6 +11,10 @@
                rel="alternate"
                hreflang="el"
                href="https://mortgage-loaner.com/#/el/"/>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="it"
+               href="https://mortgage-loaner.com/#/it/"/>
   </url>
   <url>
     <loc>https://mortgage-loaner.com/#/en/stats</loc>
@@ -22,5 +26,9 @@
                rel="alternate"
                hreflang="el"
                href="https://mortgage-loaner.com/#/el/stats"/>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="it"
+               href="https://mortgage-loaner.com/#/it/stats"/>
   </url>
 </urlset>
